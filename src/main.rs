@@ -1,3 +1,7 @@
+mod helpers;
+// mod tests;
+mod tests;
+
 fn main() {
-    println!("Hello, world!");
+    helpers::aws::run();
 }

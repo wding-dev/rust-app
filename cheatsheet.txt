@@ -1,0 +1,5 @@
+cargo run: compiles and runs
+
+cargo build: build
+
+cargo build --release: build for production
